@@ -1,1 +1,1 @@
-# learn-shell
+# learnig-shell
