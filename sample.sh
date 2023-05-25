@@ -1,4 +1,4 @@
 ls -l
 pwd
-#sudo yum install nginx -y
+#sudo yum install nginx
 echo "hello world"
