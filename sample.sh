@@ -1,4 +1,4 @@
 ls -l
 pwd
 #sudo yum install nginx
-echo "hello world"
+echo -e "\e[31m hello world in red color\e[0m"
