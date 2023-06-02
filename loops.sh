@@ -6,7 +6,6 @@ while [ $a -gt 0 ]; do
 done
 
 for a in 'seq 10' do
-  echo $a
-  sleep 1
+
 done
 
