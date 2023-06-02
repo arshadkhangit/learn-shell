@@ -5,7 +5,7 @@ while [ $a -gt 0 ]; do
   sleep 1
 done
 
-for a i 10; do
+for a in 10; do
   echo $a
   sleep 1
 done
