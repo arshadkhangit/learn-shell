@@ -7,6 +7,7 @@ done
 
 for a in 10; do
   echo $a
+  a=$(($a-1))
   sleep 1
 done
 
