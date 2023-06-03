@@ -5,3 +5,4 @@ folder=$(echo $url | awk -F / '{print $6}' | sed 's/.tar.gz//')
 yum install httpd -y
 cd /var/www/html
 tar -xf /tmp/mediawiki-1.39.3.tar.gz
+mv $folder mediawiki
